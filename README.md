@@ -4,6 +4,7 @@
 ## Specification
 - Processor: Arduino uno     
 - IMU sensor: MPU6050     
+- Motor: DG02S
 - Motor driver: L298N     
 
 ## PID Control
@@ -15,17 +16,13 @@ ref: https://setoo0922.tistory.com/259
 
 ## Demo
 - Frames    
-<img src="./img/processor.jpeg" width="300"/>
-<img src="./img/sensor.jpeg" width="300"/>     
+<img src="./img/frame.png" width="600"/> 
 
-- IMU Sensing    
-<img src="./img/sensor_working.jpeg" width="300"/>
-
-- Motor     
-<img src="./img/actuator_working.jpeg" width="300"/>
+- Test on modules
+<img src="./img/test.png" width="600"/>
 
 - Overall    
-<img src="./img/working.jpeg" width="300"/>
+<img src="./img/working.gif" width="300"/>
     
 
 ## Contributors
